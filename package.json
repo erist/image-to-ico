@@ -1,0 +1,15 @@
+{
+  "name": "image-to-ico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.13.0",
+    "png-to-ico": "^2.1.0"
+  }
+}
